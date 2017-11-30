@@ -13,12 +13,12 @@
 
 <script>
 export default {
-    
+  name: 'layout'
 }
 </script>
 
 <style>
 .el-container {
     margin-bottom: 40px;
-  }
+}
 </style>
